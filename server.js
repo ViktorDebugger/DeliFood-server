@@ -1,7 +1,6 @@
 import express from "express";
 import cors from "cors";
 import admin from "firebase-admin";
-import serviceAccount from "./serviceAccount.json" with { type: "json" };
 
 import path from "path";
 import { fileURLToPath } from 'url';
