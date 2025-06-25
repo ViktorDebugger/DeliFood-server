@@ -2,7 +2,7 @@
   "name": "delifood",
   "type": "module",
   "version": "1.0.0",
-  "main": "eslint.config.js",
+  "main": "server.js",
   "scripts": {
     "dev": "vite",
     "test": "echo \"Error: no test specified\" && exit 1",
